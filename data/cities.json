@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Albufeira",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-27T19:01:02.000Z",
+      "notes": "vacations!!!",
+      "position": {
+        "lat": "37.09599072853549",
+        "lng": "-8.193569183349611"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Leon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2008-05-28T19:07:02.000Z",
+      "notes": "school trip",
+      "position": {
+        "lat": "42.581399679665054",
+        "lng": "-5.5535888671875"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2015-07-28T19:10:36.000Z",
+      "notes": "best trip!",
+      "position": {
+        "lat": "52.36218321674427",
+        "lng": "4.932861328125001"
+      },
+      "id": 98443201
+    }
+  ]
+}
